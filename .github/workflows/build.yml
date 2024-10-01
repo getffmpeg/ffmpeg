@@ -3,7 +3,7 @@ name: Build Installer
 on:
   push:
     tags:
-      - "v*.*.*"
+      - "v*"
 
 jobs:
   build:
