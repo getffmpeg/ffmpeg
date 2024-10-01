@@ -4,7 +4,6 @@ import zipfile
 import httpx
 
 version = "7.1"
-url = "https://github.com/GyanD/codexffmpeg/releases/download/7.0.2/ffmpeg-7.0.2-full_build-shared.zip"
 url = "https://github.com/GyanD/codexffmpeg/releases/download/7.1/ffmpeg-7.1-full_build-shared.zip"
 
 def wirte_setup_file():
